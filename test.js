@@ -10,7 +10,7 @@ var div = function (x, y) {
   return x / y;
 };
 var flipDiv = flip(div);
-console.log(flipDiv.toString());
+
 it("fj-flip", function () {
   assert.equal(flipDiv(3, 2), 0.6666666666666666);
 });

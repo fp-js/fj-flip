@@ -1,6 +1,6 @@
 {
   "name": "fj-flip",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Given a function, returns a new function with the first two arguments flipped.",
   "main": "index.js",
   "scripts": {
